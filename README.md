@@ -69,20 +69,6 @@ Tech I'm exploring
 - Observability and monitoring
 
  
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alirahmti&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirahmti&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alirahmti&hide_border=true" />
-</p>
-
- 
-
 ## 📊 Activity
 
 <p align="center">
